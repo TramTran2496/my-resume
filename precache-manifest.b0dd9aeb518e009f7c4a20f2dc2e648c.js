@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6335c7050f85729abcb9",
-    "url": "/my-resume/static/css/main.9e6138e6.chunk.css"
+    "revision": "6a74b95a3c2da732dd21",
+    "url": "/my-resume/static/css/main.8ec1754a.chunk.css"
   },
   {
-    "revision": "6335c7050f85729abcb9",
-    "url": "/my-resume/static/js/main.6335c705.chunk.js"
+    "revision": "6a74b95a3c2da732dd21",
+    "url": "/my-resume/static/js/main.6a74b95a.chunk.js"
   },
   {
     "revision": "7430dedeff57baa7ba01",
@@ -32,11 +32,11 @@ self.__precacheManifest = [
     "url": "/my-resume/static/media/vietnam-esports-logo.41771626.jpg"
   },
   {
-    "revision": "b149319a70f4ce6b44d8aa8d34205c97",
-    "url": "/my-resume/static/media/living-coral-reef-cover.b149319a.jpg"
+    "revision": "4e0baaa1608911cb8a9a26306a6f8173",
+    "url": "/my-resume/static/media/living-coral-reef-cover.4e0baaa1.jpg"
   },
   {
-    "revision": "0ca44c27fbc7f50ca2ec3157b871e125",
+    "revision": "5734709750f8da841372d0824199b168",
     "url": "/my-resume/index.html"
   }
 ];
