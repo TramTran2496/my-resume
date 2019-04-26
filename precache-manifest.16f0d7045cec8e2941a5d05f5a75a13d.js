@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "7097a9d5ce45d5a3730f",
-    "url": "/my-resume/static/css/main.3e15866b.chunk.css"
+    "revision": "6335c7050f85729abcb9",
+    "url": "/my-resume/static/css/main.9e6138e6.chunk.css"
   },
   {
-    "revision": "7097a9d5ce45d5a3730f",
-    "url": "/my-resume/static/js/main.7097a9d5.chunk.js"
+    "revision": "6335c7050f85729abcb9",
+    "url": "/my-resume/static/js/main.6335c705.chunk.js"
   },
   {
-    "revision": "1c3e473cd7df9a29a0dd",
-    "url": "/my-resume/static/css/1.6893af40.chunk.css"
+    "revision": "7430dedeff57baa7ba01",
+    "url": "/my-resume/static/css/1.e4e395c3.chunk.css"
   },
   {
-    "revision": "1c3e473cd7df9a29a0dd",
-    "url": "/my-resume/static/js/1.1c3e473c.chunk.js"
+    "revision": "7430dedeff57baa7ba01",
+    "url": "/my-resume/static/js/1.7430dede.chunk.js"
   },
   {
     "revision": "54fe26f0c54799edc228",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/my-resume/static/media/living-coral-reef-cover.b149319a.jpg"
   },
   {
-    "revision": "4e9f562691df0fde8c183741ec7c516a",
+    "revision": "0ca44c27fbc7f50ca2ec3157b871e125",
     "url": "/my-resume/index.html"
   }
 ];
