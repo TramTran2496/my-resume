@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-resume/static/css/main.45468ed2.chunk.css",
-    "main.js": "/my-resume/static/js/main.b2500854.chunk.js",
-    "main.js.map": "/my-resume/static/js/main.b2500854.chunk.js.map",
+    "main.js": "/my-resume/static/js/main.2e049757.chunk.js",
+    "main.js.map": "/my-resume/static/js/main.2e049757.chunk.js.map",
     "runtime-main.js": "/my-resume/static/js/runtime-main.c0865ef1.js",
     "runtime-main.js.map": "/my-resume/static/js/runtime-main.c0865ef1.js.map",
     "static/css/2.b84395cb.chunk.css": "/my-resume/static/css/2.b84395cb.chunk.css",
@@ -12,8 +12,8 @@
     "static/css/2.b84395cb.chunk.css.map": "/my-resume/static/css/2.b84395cb.chunk.css.map",
     "static/css/main.45468ed2.chunk.css.map": "/my-resume/static/css/main.45468ed2.chunk.css.map",
     "static/js/2.66de87c1.chunk.js.LICENSE.txt": "/my-resume/static/js/2.66de87c1.chunk.js.LICENSE.txt",
-    "static/media/CV20190205.e862d424.pdf": "/my-resume/static/media/CV20190205.e862d424.pdf",
     "static/media/avatar.26892e01.jpg": "/my-resume/static/media/avatar.26892e01.jpg",
+    "static/media/beergameCV.40f520bc.pdf": "/my-resume/static/media/beergameCV.40f520bc.pdf",
     "static/media/Header.scss": "/my-resume/static/media/living-coral-reef-cover.00fba136.jpg",
     "static/media/unimelb.498324d4.png": "/my-resume/static/media/unimelb.498324d4.png",
     "static/media/vietnam-esports-logo.c8095af3.jpg": "/my-resume/static/media/vietnam-esports-logo.c8095af3.jpg"
@@ -23,6 +23,6 @@
     "static/css/2.b84395cb.chunk.css",
     "static/js/2.66de87c1.chunk.js",
     "static/css/main.45468ed2.chunk.css",
-    "static/js/main.b2500854.chunk.js"
+    "static/js/main.2e049757.chunk.js"
   ]
 }
