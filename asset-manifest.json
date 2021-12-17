@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/my-resume/static/css/main.50d226f9.chunk.css",
-    "main.js": "/my-resume/static/js/main.a32a1e29.chunk.js",
-    "main.js.map": "/my-resume/static/js/main.a32a1e29.chunk.js.map",
+    "main.css": "/my-resume/static/css/main.73511fd3.chunk.css",
+    "main.js": "/my-resume/static/js/main.afbba3bb.chunk.js",
+    "main.js.map": "/my-resume/static/js/main.afbba3bb.chunk.js.map",
     "runtime-main.js": "/my-resume/static/js/runtime-main.c0865ef1.js",
     "runtime-main.js.map": "/my-resume/static/js/runtime-main.c0865ef1.js.map",
-    "static/css/2.8ffc61d8.chunk.css": "/my-resume/static/css/2.8ffc61d8.chunk.css",
+    "static/css/2.85b60915.chunk.css": "/my-resume/static/css/2.85b60915.chunk.css",
     "static/js/2.66de87c1.chunk.js": "/my-resume/static/js/2.66de87c1.chunk.js",
     "static/js/2.66de87c1.chunk.js.map": "/my-resume/static/js/2.66de87c1.chunk.js.map",
     "index.html": "/my-resume/index.html",
-    "static/css/2.8ffc61d8.chunk.css.map": "/my-resume/static/css/2.8ffc61d8.chunk.css.map",
-    "static/css/main.50d226f9.chunk.css.map": "/my-resume/static/css/main.50d226f9.chunk.css.map",
+    "static/css/2.85b60915.chunk.css.map": "/my-resume/static/css/2.85b60915.chunk.css.map",
+    "static/css/main.73511fd3.chunk.css.map": "/my-resume/static/css/main.73511fd3.chunk.css.map",
     "static/js/2.66de87c1.chunk.js.LICENSE.txt": "/my-resume/static/js/2.66de87c1.chunk.js.LICENSE.txt",
-    "static/media/avatar.26892e01.jpg": "/my-resume/static/media/avatar.26892e01.jpg",
+    "static/media/avatar.b4a44dfd.JPG": "/my-resume/static/media/avatar.b4a44dfd.JPG",
     "static/media/beergameCV.40f520bc.pdf": "/my-resume/static/media/beergameCV.40f520bc.pdf",
-    "static/media/Header.scss": "/my-resume/static/media/grandCanyon.f1d1fef8.jpg",
+    "static/media/Header.scss": "/my-resume/static/media/cover-photo.f23d46e5.jpeg",
     "static/media/unimelb.498324d4.png": "/my-resume/static/media/unimelb.498324d4.png",
     "static/media/vietnam-esports-logo.c8095af3.jpg": "/my-resume/static/media/vietnam-esports-logo.c8095af3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c0865ef1.js",
-    "static/css/2.8ffc61d8.chunk.css",
+    "static/css/2.85b60915.chunk.css",
     "static/js/2.66de87c1.chunk.js",
-    "static/css/main.50d226f9.chunk.css",
-    "static/js/main.a32a1e29.chunk.js"
+    "static/css/main.73511fd3.chunk.css",
+    "static/js/main.afbba3bb.chunk.js"
   ]
 }
