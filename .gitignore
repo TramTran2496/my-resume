@@ -26,3 +26,4 @@ yarn-error.log*
 #IDEA metadata
 /.idea/**
 token
+git_script
