@@ -2,7 +2,7 @@ import React from "react";
 import "./BasicInfo.scss";
 import { Divider, List } from "antd";
 import PropTypes from "prop-types";
-import cv from "./data/beergameCV.pdf";
+import cv from "./data/CV20220722.pdf";
 import Skills from "./Skills/Skills";
 import ScrollAnimation from "react-animate-on-scroll";
 import "animate.css/animate.min.css";

@@ -40,15 +40,14 @@ const App = () => {
     ],
     contact: [
       { icon: <MailOutlined />, contact: "ttntram2496@gmail.com", type: "mailto:" },
-      { icon: <PhoneOutlined />, contact: "+84704113755", type: "tel:" }
+      { icon: <PhoneOutlined />, contact: "+61413123939", type: "tel:" }
     ],
     information: [
       { title: "Birthday", value: "02 Apr 1996" },
-      { title: "Gender", value: "female" },
-      { title: "Experiences", value: "3 years" }
+      { title: "Gender", value: "female" }
     ],
     objective:
-      "To obtain a position that will enable me to utilize my problem solving skills and attention to detail to further develop my abilities in the field of computer science.",
+      "To obtain a position that will enable me to utilize my problem solving skills and attention to detail to further develop my abilities in the field of Computer Science.",
     language: [
       { title: "Vietnamese", value: "native" },
       { title: "English", value: "fluent" }
@@ -60,9 +59,16 @@ const App = () => {
       list: [
         {
           title: "The University of Melbourne",
-          subtitle: "Master of Computer Science",
-          daterange: "March 2021 - present",
+          subtitle: "Doctor of Philosophy - Engineering and IT",
+          daterange: "December 2022 - present",
           description: [],
+          logo: unimelb
+        },
+        {
+          title: "The University of Melbourne",
+          subtitle: "Master of Computer Science",
+          daterange: "March 2021 - November 2022",
+          description: ["With Distinction"],
           logo: unimelb
         },
         {
@@ -83,7 +89,7 @@ const App = () => {
           daterange: "Nov 2018 - February 2021",
           description: [
             "Here, I build support tools for Shopee and some website for their partners. As the position is front-end developer, I design UI, UX to develop the features that users require.",
-            "I have contributed significant projects to Shopee business in Vietnam.",
+            "I have contributed to significant projects of Shopee business in Vietnam.",
             "Use: Javascript, Html, Sass, React, NodeJS, Webpack"
           ],
           logo: ved
@@ -103,7 +109,7 @@ const App = () => {
           subtitle: "Front-end Development Internship",
           daterange: "Jun 2017 - Aug 2017",
           description: [
-            "At Smartdatics, I worked in many projects about studying abroad, bitcoin, ecommerce, etc. because Smardatics is an outsourcing company. My internship happened here and I have learnt about React basics also here.",
+            "At Smartdatics, I worked in many projects about studying abroad, bitcoin, and ecommerce. My internship happened here and I have also learned about React basics here.",
             "Use: Typescript, React, Redux, Html, CSS"
           ],
           logo: smartdatics
@@ -113,6 +119,25 @@ const App = () => {
     {
       title: "PROJECTS",
       list: [
+        {
+          title: "Graph representation of urban traffic flow",
+          subtitle: "The University of Melbourne",
+          daterange: "December 2022 - present",
+          description: [
+            "The aim of this project is to apply graph neural networks to represent traffic online data.",
+            "Video prediction techniques using generative models or variational autoencoder may be applied."
+          ],
+        },
+        {
+          title: "Anomaly detection for time-series data and evaluation without labels",
+          subtitle: "The University of Melbourne",
+          daterange: "March 2022 - October 2022",
+          description: [
+            "Anomaly detection is an approach for detecting unexpected signals in time-series data that appears in many fields of Data Science.",
+            "In this study, I address the problem of anomaly detection on time-series data that lacks a ground truth.",
+            "The aim of this project is to detect point anomalies in historical data of a public dataset collected in Brazil, in both temporal and spatial dimensions."
+          ],
+        },
         {
           title: "Zalo Official Account",
           subtitle: "Zalo",
@@ -136,21 +161,21 @@ const App = () => {
         },
         {
           title: "Music Genre Recognition",
-          subtitle: "Thesis",
+          subtitle: "Ho Chi Minh University of Technology",
           daterange: "Oct 2017 - Jun 2018",
           description: [
             "My thesis is about how to give the correct music genre with a piece of music input.",
-            "I and one friend have researched artificial neural network, convolutional neural network, spectrogram of sound, etc. to complete this project.",
+            "We have researched artificial neural network, convolutional neural network, spectrogram of sound, and music featurization to complete this project.",
             "We decided to use two models of ANN and CNN for deep learning in this field and when we combine two models, the accuracy is quite appreciable at 83 percent."
           ]
         },
         {
           title: "BKOOL",
-          subtitle: "Assignment",
+          subtitle: "Ho Chi Minh University of Technology",
           daterange: "Oct 2016 - Dec 2016",
           description: [
             "BKOOL is a programming language that we were assigned to write it a compiler. BKOOL is a very simple language having some basic operations.",
-            "This is a personal assignment of a subject named Principles of Programming Language. I have learned about how programming language works, what exactly is below the things like C or Pascal.",
+            "This is a personal assignment. I have learned about how programming language works, what exactly is below the things like C or Pascal.",
             "Use: Scala"
           ]
         }
@@ -205,6 +230,19 @@ const App = () => {
       title: "HONORS & AWARDS",
       list: [
         {
+          title: "Melbourne Research Scholarship",
+          daterange: "2022 - 2026",
+          link: "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships"
+        },
+        {
+          title: "Melbourne Graduate Scholarship",
+          daterange: "2022"
+        },
+        {
+          title: "Melbourne School of Engineering Scholarship",
+          daterange: "2021 - 2022"
+        },
+        {
           title: "Vingroup Science and Technology Scholarship Program for Overseas Study",
           daterange: "2021 - 2022",
           link: "https://scholarships.vinuni.edu.vn/"
@@ -243,7 +281,7 @@ const App = () => {
           description: [
             "Music is my first interest. I like many kinds of music but I usually listen to Pop, Slow, Latin and Boléro. Besides, I play keyboards as a hobby.",
             "I love family movies, especially some animated films made by Disney or Dreamworks.",
-            "I read books an hour a day. I have many books in categories such as autobiography, novel, fiction, science, etc.",
+            "I read books an hour a day. I have many books in categories such as autobiography, novel, fiction, science, and detective fiction.",
             "Traveling is one of my favourite activities. It gives me chances to experience our fantastic world.",
             "Playing sports has never been my strength. Though, I usually go swimming when I have free time."
           ]
@@ -256,7 +294,7 @@ const App = () => {
     { title: "C#", percent: 3 },
     { title: "Html/CSS", percent: 4 },
     { title: "Javascript", percent: 4.5 },
-    { title: "Python", percent: 3 },
+    { title: "Python", percent: 4.5 },
     { title: "Java", percent: 2.5 },
     { title: "Haskell", percent: 2 },
     { title: "Prolog", percent: 2 },
