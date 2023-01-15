@@ -35,7 +35,7 @@ const App = () => {
       },
       {
         icon: <InstagramFilled />,
-        link: "https://www.instagram.com/hilary.eve"
+        link: "https://www.instagram.com/eve.tran.24"
       }
     ],
     contact: [
