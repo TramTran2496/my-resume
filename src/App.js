@@ -135,7 +135,7 @@ const App = () => {
           description: [
             "Anomaly detection is an approach for detecting unexpected signals in time-series data that appears in many fields of Data Science.",
             "In this study, I address the problem of anomaly detection on time-series data that lacks a ground truth.",
-            "The aim of this project is to detect point anomalies in historical data of a public dataset collected in Brazil, in both temporal and spatial dimensions."
+            "The aim of this project is to detect point anomalies in historical data of a public malaria dataset collected in Brazil, in both temporal and spatial dimensions."
           ],
         },
         {
