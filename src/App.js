@@ -75,7 +75,7 @@ const App = () => {
           title: "Ho Chi Minh University of Technology",
           subtitle: "Computer Science",
           daterange: "Sep 2014 - Jun 2018",
-          description: ["Honor Program", "GPA: 8.37/10"],
+          description: ["Honor Program"],
           logo: bku
         }
       ]
@@ -124,7 +124,7 @@ const App = () => {
           subtitle: "The University of Melbourne",
           daterange: "December 2022 - present",
           description: [
-            "The aim of this project is to apply graph neural networks to represent traffic online data.",
+            "The aim of this project is to apply graph neural networks to represent online traffic data.",
             "Video prediction techniques using generative models or variational autoencoder may be applied."
           ],
         },
