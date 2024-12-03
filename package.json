@@ -10,7 +10,7 @@
     "antd": "^4.6.4",
     "customize-cra": "^0.2.11",
     "less": "^3.9.0",
-    "less-loader": "^4.1.0",
+    "less-loader": "^11.1.0",
     "node-sass": "^6.0.1",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
@@ -18,7 +18,7 @@
     "react-app-rewired": "^2.0.3",
     "react-dom": "^16.7.0",
     "react-particles-js": "^2.6.0",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
