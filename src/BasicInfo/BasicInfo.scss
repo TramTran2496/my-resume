@@ -1,5 +1,5 @@
-$coral: #901331;
-$sand: #fccbd7;
+$coral: #40838d;
+$sand: #b5c7d8;
 $break: 768px;
 
 .basic-info {
@@ -16,10 +16,10 @@ $break: 768px;
   }
 
   .media-social {
-    margin: 0 calc(10vw + 16px);
+    margin: 0 calc(10vw + 56px);
     display: flex;
     @media all and (max-width: $break) {
-      margin: 0 calc(50vw - 88px);
+      margin: 0 calc(50vw - 42px);
     }
 
     span {

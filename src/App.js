@@ -28,7 +28,7 @@ const App = () => {
       {
         icon: <LinkedinFilled />,
         link: 'https://vn.linkedin.com/in/ng%E1%BB%8Dc-tr%C3%A2m-tr%E1%BA%A7n-th%E1%BB%8B-7a61a8376'
-      },
+      }
       // {
       //   icon: <FacebookFilled />,
       //   link: 'https://www.facebook.com/tram.tranthingoc.2496'
@@ -289,7 +289,7 @@ const App = () => {
   ];
   const skills = [
     { title: 'Python', percent: 4.5 },
-    { title: 'SQL', percent: 4 },
+    { title: 'SQL', percent: 3 },
     { title: 'R', percent: 2.5},
     { title: 'C/C++', percent: 3 },
     { title: 'C#', percent: 3 },

@@ -1,39 +1,39 @@
-import React from "react";
-import "./BasicInfo.scss";
-import { Divider, List } from "antd";
-import PropTypes from "prop-types";
-import cv from "./data/CV20220722.pdf";
-import Skills from "./Skills/Skills";
-import ScrollAnimation from "react-animate-on-scroll";
-import "animate.css/animate.min.css";
-import { FilePdfOutlined } from "@ant-design/icons";
+import React from 'react';
+import './BasicInfo.scss';
+import { Divider, List } from 'antd';
+import PropTypes from 'prop-types';
+import cv from './data/CV20220722.pdf';
+import Skills from './Skills/Skills';
+import ScrollAnimation from 'react-animate-on-scroll';
+import 'animate.css/animate.min.css';
+import { FilePdfOutlined } from '@ant-design/icons';
 
 const BasicInfo = ({ data, skills }) => {
   const { social, contact, information, objective, language } = data;
 
   return (
-    <div className="basic-info">
-      <div className="media-social">
+    <div className='basic-info'>
+      <div className='media-social'>
         {social.map((item, index) => (
           <ScrollAnimation
-            animateIn="rotateInDownLeft"
+            animateIn='rotateInDownLeft'
             key={index}
             animateOnce
             duration={0.5}
             offset={0}
             delay={index * 250}
-            style={{ width: "fit-content" }}
+            style={{ width: 'fit-content' }}
           >
-            <a href={item.link} target="_blank" rel="noopener noreferrer">
+            <a href={item.link} target='_blank' rel='noopener noreferrer'>
               {item.icon}
             </a>
           </ScrollAnimation>
         ))}
       </div>
-      <div className="contact">
+      <div className='contact'>
         {contact.map((item, index) => (
           <ScrollAnimation
-            animateIn="fadeIn"
+            animateIn='fadeIn'
             key={index}
             delay={index * 250}
             animateOnce
@@ -45,15 +45,15 @@ const BasicInfo = ({ data, skills }) => {
             </a>
           </ScrollAnimation>
         ))}
-        <ScrollAnimation animateIn="fadeIn" delay={500} animateOnce offset={0}>
+        <ScrollAnimation animateIn='fadeIn' delay={500} animateOnce offset={0}>
           <a href={cv} download>
             <FilePdfOutlined />
             Get my resume
           </a>
         </ScrollAnimation>
       </div>
-      <WhiteSection title="BASIC INFORMATION" data={information} />
-      <WhiteSection title="LANGUAGE" data={language} />
+      <WhiteSection title='BASIC INFORMATION' data={information} />
+      <WhiteSection title='LANGUAGE' data={language} />
       <Skills data={skills} />
     </div>
   );
@@ -67,18 +67,18 @@ BasicInfo.propTypes = {
 export default BasicInfo;
 
 const WhiteSection = ({ title, data }) => (
-  <div className="info">
+  <div className='info'>
     <Divider>{title}</Divider>
-    <ScrollAnimation animateIn="zoomInUp" animateOnce>
+    <ScrollAnimation animateIn='zoomInUp' animateOnce>
       {!Array.isArray(data) ? (
-        <div className="info-text">{data}</div>
+        <div className='info-text'>{data}</div>
       ) : (
         <List
           dataSource={data}
           renderItem={(item, index) => (
-            <List.Item key={index} className="info-item">
+            <List.Item key={index} className='info-item'>
               {item.title}
-              <div className="info-italic">{item.value}</div>
+              <div className='info-italic'>{item.value}</div>
             </List.Item>
           )}
         />
