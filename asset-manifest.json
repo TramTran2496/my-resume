@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/my-resume/static/css/main.92f5d0f1.chunk.css",
-    "main.js": "/my-resume/static/js/main.02320699.chunk.js",
-    "main.js.map": "/my-resume/static/js/main.02320699.chunk.js.map",
+    "main.css": "/my-resume/static/css/main.6b0eaba8.chunk.css",
+    "main.js": "/my-resume/static/js/main.8aa40153.chunk.js",
+    "main.js.map": "/my-resume/static/js/main.8aa40153.chunk.js.map",
     "runtime-main.js": "/my-resume/static/js/runtime-main.c0865ef1.js",
     "runtime-main.js.map": "/my-resume/static/js/runtime-main.c0865ef1.js.map",
-    "static/css/2.ecbc4065.chunk.css": "/my-resume/static/css/2.ecbc4065.chunk.css",
-    "static/js/2.99bb33a7.chunk.js": "/my-resume/static/js/2.99bb33a7.chunk.js",
-    "static/js/2.99bb33a7.chunk.js.map": "/my-resume/static/js/2.99bb33a7.chunk.js.map",
+    "static/css/2.e827001c.chunk.css": "/my-resume/static/css/2.e827001c.chunk.css",
+    "static/js/2.0ed95a48.chunk.js": "/my-resume/static/js/2.0ed95a48.chunk.js",
+    "static/js/2.0ed95a48.chunk.js.map": "/my-resume/static/js/2.0ed95a48.chunk.js.map",
     "index.html": "/my-resume/index.html",
-    "static/css/2.ecbc4065.chunk.css.map": "/my-resume/static/css/2.ecbc4065.chunk.css.map",
-    "static/css/main.92f5d0f1.chunk.css.map": "/my-resume/static/css/main.92f5d0f1.chunk.css.map",
-    "static/js/2.99bb33a7.chunk.js.LICENSE.txt": "/my-resume/static/js/2.99bb33a7.chunk.js.LICENSE.txt",
+    "static/css/2.e827001c.chunk.css.map": "/my-resume/static/css/2.e827001c.chunk.css.map",
+    "static/css/main.6b0eaba8.chunk.css.map": "/my-resume/static/css/main.6b0eaba8.chunk.css.map",
+    "static/js/2.0ed95a48.chunk.js.LICENSE.txt": "/my-resume/static/js/2.0ed95a48.chunk.js.LICENSE.txt",
     "static/media/CV20220722.7149654f.pdf": "/my-resume/static/media/CV20220722.7149654f.pdf",
     "static/media/avatar.85e54e33.jpg": "/my-resume/static/media/avatar.85e54e33.jpg",
-    "static/media/Header.scss": "/my-resume/static/media/cover_photo.011a7e4f.JPG",
-    "static/media/unimelb.498324d4.png": "/my-resume/static/media/unimelb.498324d4.png",
-    "static/media/vietnam-esports-logo.c8095af3.jpg": "/my-resume/static/media/vietnam-esports-logo.c8095af3.jpg"
+    "static/media/Header.scss": "/my-resume/static/media/cover_photo.0adf1f09.jpg",
+    "static/media/sea.8a5f63d6.png": "/my-resume/static/media/sea.8a5f63d6.png",
+    "static/media/unimelb.498324d4.png": "/my-resume/static/media/unimelb.498324d4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c0865ef1.js",
-    "static/css/2.ecbc4065.chunk.css",
-    "static/js/2.99bb33a7.chunk.js",
-    "static/css/main.92f5d0f1.chunk.css",
-    "static/js/main.02320699.chunk.js"
+    "static/css/2.e827001c.chunk.css",
+    "static/js/2.0ed95a48.chunk.js",
+    "static/css/main.6b0eaba8.chunk.css",
+    "static/js/main.8aa40153.chunk.js"
   ]
 }
