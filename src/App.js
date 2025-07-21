@@ -47,7 +47,7 @@ const App = () => {
       { title: 'Gender', value: 'female' }
     ],
     objective:
-      'To become an AI Engineer where I can leverage my problem-solving skills and strong analytical rigor, while further advancing my expertise in the field of Computer Science.',
+      'To obtain a position where I can leverage my problem-solving skills and strong analytical rigor, while further advancing my expertise in the field of Computer Science.',
     language: [
       { title: 'Vietnamese', value: 'native' },
       { title: 'English', value: 'fluent' }

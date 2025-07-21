@@ -52,6 +52,7 @@ const BasicInfo = ({ data, skills }) => {
           </a>
         </ScrollAnimation>
       </div>
+      <WhiteSection title='OBJECTIVE' data={objective} />
       <WhiteSection title='BASIC INFORMATION' data={information} />
       <WhiteSection title='LANGUAGE' data={language} />
       <Skills data={skills} />
