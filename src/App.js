@@ -59,15 +59,8 @@ const App = () => {
       list: [
         {
           title: 'The University of Melbourne',
-          subtitle: 'Doctor of Philosophy - Engineering and IT',
-          daterange: 'December 2022 - present',
-          description: [],
-          logo: unimelb
-        },
-        {
-          title: 'The University of Melbourne',
           subtitle: 'Master of Computer Science',
-          daterange: 'March 2021 - November 2022',
+          daterange: 'Mar 2021 - Oct 2022',
           description: ['With Distinction'],
           logo: unimelb
         },
@@ -84,9 +77,18 @@ const App = () => {
       title: 'WORK EXPERIENCE',
       list: [
         {
+          title: 'The University of Melbourne',
+          subtitle: 'Graduate Work - Faculty of Engineering and IT',
+          daterange: 'Dec 2022 - Apr 2025',
+          description: [
+            'I worked on diffusion and other generative models for video prediction.'
+          ],
+          logo: unimelb
+        },
+        {
           title: 'SEA Ltd',
           subtitle: 'Front-end Developer',
-          daterange: 'Nov 2018 - February 2021',
+          daterange: 'Nov 2018 - Feb 2021',
           description: [
             'At SEA, I was responsible for developing internal tools for Shopee as well as co-branded websites for its partners. As a front-end developer, I contributed to both UI/UX design and the implementation of user-requested features.',
             'Use: Javascript, Html, Sass, React, NodeJS, Webpack'
@@ -121,7 +123,7 @@ const App = () => {
         {
           title: 'Graph representation of urban traffic flow',
           subtitle: 'The University of Melbourne',
-          daterange: 'December 2022 - present',
+          daterange: 'Dec 2022 - Apr 2025',
           description: [
             'The aim of this project is to apply Graph Neural Networks (GNNs) to model online traffic data.',
             'Video prediction techniques using diffusion and other generative models were also explored and implemented.',
@@ -131,7 +133,7 @@ const App = () => {
         {
           title: 'Anomaly detection for time-series data and evaluation without labels',
           subtitle: 'The University of Melbourne',
-          daterange: 'March 2022 - October 2022',
+          daterange: 'Mar 2022 - Oct 2022',
           description: [
             'The objective of this study is to detect anomoly in time-series data without ground truth.',
             'In this study, I applied analytical techniques to preprocess a malaria dataset collected in Brazil and employed unsupervized learning models to detect point anomalies across both temporal and spatial dimensions.',
@@ -180,6 +182,49 @@ const App = () => {
       ]
     },
     {
+      title: 'HONORS & AWARDS',
+      list: [
+        {
+          title: 'Melbourne Research Scholarship',
+          daterange: '2022 - 2026',
+          description: [
+            'Offered to high-achieving students who are enrolling in a graduate research degree.'
+          ],
+          link: 'https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships'
+        },
+        {
+          title: 'Melbourne Graduate Scholarship',
+          daterange: '2022',
+          description: [
+            'Offered to international students for their graduate study in recognition of their academic achievements.'
+          ]
+        },
+        {
+          title: 'Melbourne School of Engineering Scholarship',
+          daterange: '2021 - 2022',
+          description: [
+            'Providing a living allowance for high-achieving students enrolling in a full-fee place.'
+          ]
+        },
+        {
+          title: 'Vingroup Science and Technology Scholarship Program for Overseas Study',
+          daterange: '2021 - 2022',
+          description: [
+            'Finantial support for Master of Computer Science program at University of Melbourne'
+          ],
+          link: 'https://scholarships.vinuni.edu.vn/'
+        },
+        {
+          title: 'Microsoft Youthspark Scholarship',
+          daterange: '2016 - 2018',
+          description: [
+            'Offered to high-achieving female students in technology'
+          ],
+          link: 'https://en.hocbongnusinh.com/microsoft-youthspark-scholarship-for-women-in-technologies-2018-2019.html'
+        }
+      ]
+    },
+    {
       title: 'ACTIVITIES',
       list: [
         {
@@ -221,34 +266,6 @@ const App = () => {
           description: [
             'Supporting in organizing coordinating festival activities.'
           ]
-        }
-      ]
-    },
-    {
-      title: 'HONORS & AWARDS',
-      list: [
-        {
-          title: 'Melbourne Research Scholarship',
-          daterange: '2022 - 2026',
-          link: 'https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships'
-        },
-        {
-          title: 'Melbourne Graduate Scholarship',
-          daterange: '2022'
-        },
-        {
-          title: 'Melbourne School of Engineering Scholarship',
-          daterange: '2021 - 2022'
-        },
-        {
-          title: 'Vingroup Science and Technology Scholarship Program for Overseas Study',
-          daterange: '2021 - 2022',
-          link: 'https://scholarships.vinuni.edu.vn/'
-        },
-        {
-          title: 'Microsoft Youthspark Scholarship',
-          daterange: '2016 - 2018',
-          link: 'https://en.hocbongnusinh.com/microsoft-youthspark-scholarship-for-women-in-technologies-2018-2019.html'
         }
       ]
     },
