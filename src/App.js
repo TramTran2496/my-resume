@@ -306,7 +306,7 @@ const App = () => {
   ];
   const skills = [
     { title: 'Python', percent: 4.5 },
-    { title: 'SQL', percent: 3 },
+    { title: 'SQL', percent: 4 },
     { title: 'R', percent: 2.5},
     { title: 'C/C++', percent: 3 },
     { title: 'C#', percent: 3 },
